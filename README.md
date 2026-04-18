@@ -76,8 +76,10 @@ Each tool is self-contained with its own config file. No shared state between to
 
 ---
 
-More at [0xgrek.com](https://0xgrek.com/projects/crypto-tools-101)
+More at [0xgrek.com](https://0xgrek.com)
 
 ---
 
-MIT License
+© 2024-2026 Serhii Ivanenko.
+
+Licensed under the [MIT License](LICENSE).
